@@ -1,5 +1,5 @@
 PODS:
-  - document_scanner_flutter (0.0.1):
+  - document_scanner_flutter (0.0.2):
     - Flutter
     - WeScan
   - Flutter (1.0.0)
@@ -25,11 +25,11 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/document_scanner_flutter/ios/WeScan-3.0.0"
 
 SPEC CHECKSUMS:
-  document_scanner_flutter: b5dc95b66df86d5e41098f6d3f861c923caf2fd6
+  document_scanner_flutter: 7047c6f5aa1b9521afd697227ceb792bdeeffe90
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
   path_provider_foundation: 29f094ae23ebbca9d3d0cec13889cd9060c0e943
   WeScan: f50277f7304d146d9ebc4ebdc1b587df84dcdd8b
 
 PODFILE CHECKSUM: 8113fed6d0ae1db4a0c87649f0958d9de70763f6
 
-COCOAPODS: 1.12.1
+COCOAPODS: 1.13.0

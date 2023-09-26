@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'document_scanner_flutter'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'A document scanner plugin for flutter'
   s.description      = 'A document scanner plugin for flutter'
   s.homepage         = 'http://example.com'
